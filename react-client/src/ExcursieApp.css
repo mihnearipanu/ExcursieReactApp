@@ -1,0 +1,26 @@
+.ExcursieApp {
+    text-align: center;
+    align-content: center;
+    color:black;
+}
+.ExcursieApp-h1{
+    text-align: center;
+    color: black;
+    font-family:'Times New Roman';
+    font-size: medium;
+
+}
+.ExcursiiTable{
+    text-align: center;
+    font-family: "Arial";
+    font-size: small;
+    color: black;
+}
+.ExcursieApp-body{
+    align-content: center;
+}
+
+table.center {
+    margin-left:auto;
+    margin-right:auto;
+}
